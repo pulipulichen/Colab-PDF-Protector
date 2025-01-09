@@ -5,9 +5,9 @@ authors:
     given-names: Yung-Ting
     orcid: https://orcid.org/0000-0003-3751-610X
     email: https://blog.pulipuli.info
-title: "Colab_PDF_Protector"
+title: "Colab-PDF-Protector"
 license: "Apache-2.0"
-repository-code: "https://github.com/pulipulichen/Colab_PDF_Protector"
+repository-code: "https://github.com/pulipulichen/Colab-PDF-Protector"
 abstract: "A tool for removing PDF protection restrictions."
 identifiers:
  - type: doi
