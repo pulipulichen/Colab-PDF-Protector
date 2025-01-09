@@ -1,4 +1,4 @@
-@TODO DOI
+[![DOI](https://zenodo.org/badge/914238245.svg)](https://doi.org/10.5281/zenodo.14619845)
 
 # Colab-PDF-Unlocker: 移除 PDF 保護限制的工具
 
@@ -18,8 +18,17 @@ https://pulipulichen.github.io/Colab-PDF-Unlocker/example%20file/2023.02.12%20%E
 - Open password: password1  (use it)
 - Edit password: password2
 
-# Techniques
+# Key Techniques
 
 - **qpdf**:  處理PDF檔案內容和結構的函式庫。
 - **Google Colab**: 一個提供免費雲端運算資源的平台，可以執行 Linux 工具和 Python 程式碼。
 - **Python**:  用於檔案處理和控制qpdf函式庫。
+
+
+# Blog
+
+@TODO
+
+# Citation
+
+@TODO

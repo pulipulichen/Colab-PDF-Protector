@@ -9,6 +9,6 @@ title: "Colab-PDF-Unlocker"
 license: "Apache-2.0"
 repository-code: "https://github.com/pulipulichen/Colab-PDF-Unlocker"
 abstract: "A tool for removing PDF protection restrictions."
-#identifiers:
-#  - type: doi
-#    value: 10.5281/zenodo.14619584
+identifiers:
+ - type: doi
+   value: 10.5281/zenodo.14619845
