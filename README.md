@@ -31,4 +31,4 @@ https://pulipulichen.github.io/Colab-PDF-Unlocker/example%20file/2023.02.12%20%E
 
 # Citation
 
-@TODO
+Chen, Y.-T. (2025). *Colab-PDF-Unlocker* (Versions 20250109-1625) [Computer software]. Zenodo. [https://doi.org/10.5281/ZENODO.14619845](https://doi.org/10.5281/ZENODO.14619845)
