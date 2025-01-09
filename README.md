@@ -5,7 +5,7 @@
 This tool takes a protected PDF file as input with a known password and attempts to remove its restrictions, such as copying and printing, outputting an unrestricted PDF file.
 輸入受保護的 PDF 檔案以及你知道的密碼，這個工具會嘗試移除 PDF 的保護限制，例如複製、列印等等，並輸出一個無保護限制的 PDF 檔案。
 
-@TODO IMG
+![](https://blogger.googleusercontent.com/img/a/AVvXsEh2vfP5lonPUaMd4hwaKaCXqfED23CzeIBydGQEYesGeGSD0vC_W3jULKucDvut8twbVfPrPDDxE3b1NCluwyZJ4fAjp5ycnLBUyCQraxCg2C2goB6yscAcQL8zg1ctYGxmlYLoGUIKlF6QxbKy8NhmH2V3lgfFzBLqOB5elCs-wwYBYRs_2C0iqQ)
 
 # Online Tool
 
