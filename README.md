@@ -15,7 +15,7 @@ https://colab.research.google.com/github/pulipulichen/Colab-PDF-Protector/blob/m
 
 https://pulipulichen.github.io/Colab-PDF-Protector/example%20file/2023.02.12%20%E6%A8%A1%E5%9E%8B%E6%9E%B6%E6%A7%8B%E5%9C%96+FSB%E9%97%9C%E9%8D%B5%E5%AD%97%E6%8A%BD%E5%8F%96%20a.pdf
 
-- Open password: open_password  (use it)
+- Open password: open_password 
 - Edit password: edit_password
 
 # Key Techniques
