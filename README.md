@@ -31,4 +31,4 @@ https://blog.pulipuli.info/2025/06/unlocking-or-encrypting-pdf-files-colab-pdf-p
 
 # Citation
 
-Chen, Y.-T. (2025). *Colab-PDF-Protector* (Versions 20250109-1625) [Computer software]. Zenodo. [https://doi.org/10.5281/ZENODO.14619845](https://doi.org/10.5281/ZENODO.14619845)
+Chen, Y.-T. (2025). *Colab-PDF-Protector* (Versions 20250110-0820) [Computer software]. Zenodo. [https://doi.org/10.5281/ZENODO.14619845](https://doi.org/10.5281/ZENODO.14619845)
