@@ -27,7 +27,7 @@ https://pulipulichen.github.io/Colab-PDF-Protector/example%20file/2023.02.12%20%
 
 # Blog
 
-@TODO
+https://blog.pulipuli.info/2025/06/unlocking-or-encrypting-pdf-files-colab-pdf-protector.html
 
 # Citation
 
